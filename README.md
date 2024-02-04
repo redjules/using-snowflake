@@ -1,4 +1,4 @@
-# using-snowflake
+# Using Snowflake
 
 Unit 1 - Intro
 
